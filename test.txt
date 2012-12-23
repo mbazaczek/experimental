@@ -1,0 +1,1 @@
+pseudokod_lol();
