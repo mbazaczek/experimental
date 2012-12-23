@@ -3,6 +3,7 @@
  * and open the template in the editor.
  */
 package javaapplication1;
+import java.io.IOException;
 import java.lang.String;
 
 /**
@@ -14,9 +15,10 @@ public class JavaApplication1 {
     /**
      * @param args the command line arguments
      */
-    public static void main() {
+    public static void main(String args[]) throws IOException {
         // TODO code application logic here
         System.out.println("Hello World");
-        String chujnia= System.in.read();
+        String chujnia;
+        System.in.read();
     }
 }
