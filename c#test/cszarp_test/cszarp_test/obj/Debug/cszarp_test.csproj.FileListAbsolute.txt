@@ -4,3 +4,9 @@ D:\_programmin\experimental\experimental\c#test\cszarp_test\cszarp_test\bin\Debu
 D:\_programmin\experimental\experimental\c#test\cszarp_test\cszarp_test\obj\Debug\cszarp_test.csprojResolveAssemblyReference.cache
 D:\_programmin\experimental\experimental\c#test\cszarp_test\cszarp_test\obj\Debug\cszarp_test.exe
 D:\_programmin\experimental\experimental\c#test\cszarp_test\cszarp_test\obj\Debug\cszarp_test.pdb
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\c#test\cszarp_test\cszarp_test\bin\Debug\cszarp_test.exe.config
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\c#test\cszarp_test\cszarp_test\obj\Debug\cszarp_test.exe
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\c#test\cszarp_test\cszarp_test\obj\Debug\cszarp_test.pdb
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\c#test\cszarp_test\cszarp_test\bin\Debug\cszarp_test.exe
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\c#test\cszarp_test\cszarp_test\bin\Debug\cszarp_test.pdb
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\c#test\cszarp_test\cszarp_test\obj\Debug\cszarp_test.csprojResolveAssemblyReference.cache

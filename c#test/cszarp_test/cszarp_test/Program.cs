@@ -10,7 +10,7 @@ namespace cszarp_test
     {
         static void Main(string[] args)
         {
-            int i=10;
+            int i=10;//dlaczego to tak? wut?
             Bobek bobek1 = new Bobek();
 
             for (i=0;i<10;i++)
