@@ -1,0 +1,6 @@
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\Words_Collator\Words_Collator\bin\Debug\Words_Collator.exe.config
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\Words_Collator\Words_Collator\bin\Debug\Words_Collator.exe
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\Words_Collator\Words_Collator\bin\Debug\Words_Collator.pdb
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\Words_Collator\Words_Collator\obj\Debug\Words_Collator.csprojResolveAssemblyReference.cache
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\Words_Collator\Words_Collator\obj\Debug\Words_Collator.exe
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\Words_Collator\Words_Collator\obj\Debug\Words_Collator.pdb
