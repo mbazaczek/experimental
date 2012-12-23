@@ -1,0 +1,6 @@
+D:\_programmin\experimental\experimental\c#test\cszarp_test\cszarp_test\bin\Debug\cszarp_test.exe.config
+D:\_programmin\experimental\experimental\c#test\cszarp_test\cszarp_test\bin\Debug\cszarp_test.exe
+D:\_programmin\experimental\experimental\c#test\cszarp_test\cszarp_test\bin\Debug\cszarp_test.pdb
+D:\_programmin\experimental\experimental\c#test\cszarp_test\cszarp_test\obj\Debug\cszarp_test.csprojResolveAssemblyReference.cache
+D:\_programmin\experimental\experimental\c#test\cszarp_test\cszarp_test\obj\Debug\cszarp_test.exe
+D:\_programmin\experimental\experimental\c#test\cszarp_test\cszarp_test\obj\Debug\cszarp_test.pdb
