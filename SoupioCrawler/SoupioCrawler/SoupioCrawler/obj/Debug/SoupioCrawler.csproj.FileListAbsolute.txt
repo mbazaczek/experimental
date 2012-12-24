@@ -10,3 +10,4 @@ D:\_programmin\experimental\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawl
 D:\_programmin\experimental\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawler\obj\Debug\SoupioCrawler.application
 D:\_programmin\experimental\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawler\obj\Debug\SoupioCrawler.exe
 D:\_programmin\experimental\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawler\obj\Debug\SoupioCrawler.pdb
+D:\_programmin\experimental\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawler\obj\Debug\SoupioCrawler.csprojResolveAssemblyReference.cache

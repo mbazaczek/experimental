@@ -41,22 +41,17 @@ namespace SoupioCrawler
             SoupPage page = new SoupPage(url);
             while (url != "")
             {
-
                 page.LoadPage(url);
-                url = page.GetMoreLink();
-               
-             
+                url = page.GetMoreLink();                     
                 foreach (SoupImage img in page.GetImgs())
                 {
                     busy = 1;
-
                     while (busy == 1)
                     {
                         foreach (WebClient d in downloaders)
                         {
                             if (d.IsBusy == false)
                             {
-                                
                                 CurrentDownloader.downloader = d;
                                // Console.WriteLine("Downloader avaliable");
                                 busy = 0;
@@ -68,7 +63,6 @@ namespace SoupioCrawler
                             }
                         }
                     }
-
                     count++;
                     //Console.WriteLine(img.id + " # " + img.src + " # h=" + img.height);
                     Uri uri = new Uri(img.src);
@@ -77,9 +71,6 @@ namespace SoupioCrawler
                     if (!File.Exists(path))
                     {
                         Console.WriteLine("downloading: " + filename);
-                        if (CurrentDownloader.downloader.IsBusy) {
-                            Console.WriteLine("BUSY");
-                        }
                         CurrentDownloader.downloader.DownloadFileAsync(uri, path);
                         downloadedImages++;
                     }
@@ -94,6 +85,8 @@ namespace SoupioCrawler
                 i++;
                 //Console.Read();
             }
+            Console.WriteLine("Crawl complete. Press any key to terminate the program.");
+            Console.Read();
         }
     }
 }
