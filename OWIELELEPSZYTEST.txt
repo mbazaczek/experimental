@@ -1,1 +1,0 @@
-HEHELOTHUJ(int ziomal);
