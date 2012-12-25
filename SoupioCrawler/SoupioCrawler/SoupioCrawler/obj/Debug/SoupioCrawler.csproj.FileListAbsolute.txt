@@ -10,3 +10,6 @@ D:\_programmin\experimental\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawl
 D:\_programmin\experimental\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawler\obj\Debug\SoupioCrawler.application
 D:\_programmin\experimental\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawler\obj\Debug\SoupioCrawler.exe
 D:\_programmin\experimental\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawler\obj\Debug\SoupioCrawler.pdb
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawler\bin\Debug\SoupioCrawler.exe.config
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawler\obj\Debug\SoupioCrawler.exe
+E:\@projects\PROGRAMMIN\hehelothuj\experimental\SoupioCrawler\SoupioCrawler\SoupioCrawler\obj\Debug\SoupioCrawler.pdb
